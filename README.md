@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranavi</h1>
-<h3 align="center">A passionate fullstack java developer from India</h3>
+<h3 align="center">A passionate fullstack java developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavi2002&label=Profile%20views&color=0e75b6&style=flat" alt="pranavi2002" /> </p>
 
