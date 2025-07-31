@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pranavi</h1>
-<h3 align="center">A passionate fullstack java developer</h3>
+<h3 align="center">A passionate fullstack java developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavi2002&label=Profile%20views&color=0e75b6&style=flat" alt="pranavi2002" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranavi2002" alt="pranavi2002" /></a> </p>
 
-- 🔭 I’ recently worked on [User Management Full Stack Projects](https://github.com/Pranavi2002/Full-Stack-Security-Project. https://github.com/Pranavi2002/Full-Stack-Project)
+- 🔭 I’ recently worked on [Weather Forecasting, User Management Full Stack Projects](https://github.com/Pranavi2002/Full-Stack-WeatherApp. https://github.com/Pranavi2002/Full-Stack-Security-Project. https://github.com/Pranavi2002/Full-Stack-Project)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Pranavi2002](https://github.com/Pranavi2002)
 
