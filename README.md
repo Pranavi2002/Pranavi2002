@@ -2,6 +2,12 @@
 <h3 align="center">Aspiring Full Stack Developer | Frontend Developer | Data Engineer | Data Analyst</h3>
 
 <p align="center">
+  <a href="https://pranavi-portfolio.netlify.app/" target="_blank">
+    <strong>🌐 Visit My Portfolio</strong>
+  </a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=pranavi2002&label=Profile%20views&color=0e75b6&style=flat" alt="pranavi2002" />
 </p>
 
