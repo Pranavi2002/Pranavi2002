@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Venkata Naga Sri Sai Pranavi Kolipaka</h1>
-<h3 align="center">Aspiring Full Stack Developer | Frontend Developer | Data Engineer | Data Analyst</h3>
+<h3 align="center">Software Engineer | AI/ML Engineer | Full Stack Developer | Frontend Developer | Data Engineer | Data Analyst</h3>
 
 <p align="center">
   <a href="https://pranavi-portfolio.netlify.app/" target="_blank">
@@ -14,11 +14,13 @@
 ---
 
 ## About Me
-- Detail-oriented Computer Science graduate with a focus on Artificial Intelligence and hands-on experience in Java Full-Stack Development and Data Science.
+- Software Engineer with strong experience building **AI-powered and data-driven systems**, along with **end-to-end full-stack applications**.
 - Proficient in building secure, scalable web applications and analyzing complex datasets to derive actionable insights.
+- - Hands-on experience with **Retrieval-Augmented Generation (RAG)**, **LLM evaluation & observability**, and **GraphRAG**.
+- Experienced in transforming raw data into **analytics-ready datasets** using modern data engineering practices.
 - Skilled in Spring Boot, React, Python, SQL, and cloud platforms (Azure, AWS).
-- Published researcher and experienced Graduate Teaching Assistant, passionate about delivering impactful software solutions.
-- Committed to continuous learning and adopting modern development practices.
+- Proven mentor and communicator with graduate teaching experience and published research.
+- Passionate about production-aware AI systems and continuous learning.
 
 ---
 
@@ -35,14 +37,23 @@
 <details>
 <summary>Click to expand</summary>
 
+- **AI/ML Intern | NextPhase.ai** (Sep 2025)  
+  Contributed to a client-facing RAG system by integrating Phoenix observability for tracing LLM behavior and hallucinations.  
+  Implemented evaluation workflows using DeepEval and RAGAS to measure faithfulness, answer relevance, and context precision.  
+  Supported GraphRAG prototyping using Neo4j and built dbt + Snowflake pipelines for evaluation analytics.
+
 - **Graduate Teaching Assistant | University of South Carolina** (Aug 2023 – May 2025)  
-  Mentored 60+ undergraduates in HTML, CSS, JavaScript. Designed hands-on lab sessions improving class performance by 20%. Assisted in debugging 100+ codebases.
+  Mentored 60+ students in HTML, CSS, and JavaScript, improving performance by ~20%.  
+  Delivered hands-on labs on responsive UI, cross-browser compatibility, and software engineering best practices.  
+  Debugged and reviewed 100+ student projects, improving code quality and maintainability.
 
 - **Web Development Intern | Verzeo Edutech** (Nov 2022 – Jan 2023)  
-  Developed responsive websites with ReactJS, CSS, Bootstrap. Built a full-stack e-Approval system using Servlets and MySQL.
+  Developed responsive React-based web applications using CSS and Bootstrap.  
+  Built a Java Servlet-based e-Approval system with MySQL, reducing manual approval by ~90%.
 
 - **Data Science Intern | Yhills Edutech** (Feb 2023 – Mar 2023)  
-  Developed predictive models (~80% accuracy). Worked on feature engineering, preprocessing, and model evaluation.
+  Built regression and classification models with ~80%+ accuracy.  
+  Performed data preprocessing, feature engineering, and exploratory data analysis.
 
 - **Deloitte Data Analytics Simulation | Forage** (Aug 2025)  
   Applied data visualization and business analysis using Tableau & Excel. GitHub: [Link](https://github.com/Pranavi2002/Deloitte-Data-Analytics-Internship-Program)
@@ -55,11 +66,30 @@
 <details>
 <summary>Click to expand</summary>
 
-- **E-Commerce Microservices Application** – ReactJS, Spring Boot, Docker  
-  Scalable system with Eureka, API Gateway. [GitHub](https://github.com/Pranavi2002/Full-Stack-Microservices_ECommerce-Project)
+- **Courses & Certification Management Platform** – React, Spring Boot, REST APIs, AI (RAG)  
+  End-to-end platform for managing courses and certifications with secure authentication and role-based access.  
+  Integrated AI-powered features using Retrieval-Augmented Generation (RAG) to enhance search, recommendations, and knowledge retrieval.  
+  Built scalable backend APIs with Spring Boot and a responsive React frontend for real-world usage.  
+  [GitHub](https://github.com/Pranavi2002/Real-world-End-to-End-React-AI-SpringBoot-Project)
 
-- **User Management System** – ReactJS, Spring Boot, MySQL  
-  Full-stack web app with CRUD operations, JWT auth, responsive UI. [GitHub](https://github.com/Pranavi2002/Full-Stack-Project)
+- **Multi-Agent AI Knowledge Assistant** – Python, RAG, Multi-Agent Systems, Vector Search  
+  Developed a multi-agent RAG-based knowledge assistant where specialized agents collaborate for retrieval, reasoning, and answer generation.  
+  Implemented agent orchestration to improve answer quality, reduce hallucinations, and handle complex multi-step queries.  
+  Experimented with different retrieval strategies and evaluation workflows to improve system reliability.  
+  [GitHub](https://github.com/Pranavi2002/Multi-agent-RAG)
+
+- **RAG Evaluation & GraphRAG Projects** – Python, FastAPI, React, FAISS, DeepEval, RAGAS, Neo4j, Phoenix  
+  Built multiple RAG pipelines with document ingestion, retrieval, and answer generation.  
+  Implemented LLM evaluation metrics and observability, tracing 100+ LLM conversations.  
+  Integrated Neo4j to enable GraphRAG-based multi-hop retrieval, improving response quality and latency. [GitHub](https://github.com/Pranavi2002/rag_project(https://github.com/Pranavi2002/GraphRAG_Neo4J-Project))
+
+  - **Analytics Engineering Pipeline (dbt & Snowflake)** – dbt Core, Snowflake, SQL  
+  Built modular ELT pipelines with star schema modeling (fact & dimension tables).  
+  Implemented tests, snapshots, and documentation ensuring 99%+ data accuracy.[GitHub](https://github.com/Pranavi2002/DBT-Project)
+
+- **E-Commerce Microservices Application** – ReactJS, Spring Boot, Docker  
+  Scalable microservices system with Eureka and API Gateway.  
+  Containerized services using Docker and Docker Compose. [GitHub](https://github.com/Pranavi2002/Full-Stack-Microservices_ECommerce-Project)
 
 - **User Management System with Enhanced Security** – ReactJS, Spring Security, JWT  
   Role-based dashboards, secure authentication, optimized MySQL DB. [GitHub](https://github.com/Pranavi2002/Full-Stack-Security-Project)
@@ -87,24 +117,25 @@
 <details>
 <summary>Click to expand</summary>
 
-- **Oracle Certifications (Expired):** OCI Foundations Associate, OCI Developer Associate, Autonomous DB Specialist  
-- **Microsoft Certifications (Expired):** Aviatrix Multi-Cloud Networking, Azure Developer Associate  
-- **Cambridge English:** Business English Preliminary  
-- **Publications & Presentations:** Co-author: *Performance of CNN for NIDS*, Presented: *Unsupervised Clustering Techniques*  
-- **Online Courses & Certifications:** Technical Interview Prep (CodePath), AI for Everyone (deeplearning.ai), Coding Ninjas Aptitude Test, IBM AI Intro
+- **Microsoft Certifications:** Azure Fundamentals (AZ-900), Azure AI Fundamentals (AI-900), Azure Data Fundamentals (DP-900)  
+- **Cambridge English Certification (ESOL)**  
+- **Publications:** Co-author, *Performance of CNN for Network Intrusion Detection Systems (NIDS)*  
+- **Conference Presentation:** *Unsupervised Clustering Techniques* (SmartCom 2023)
 
 </details>
 
 ---
 
 ## Technical Skills
-- **Languages:** Java, Python, C, R  
+- **Languages:** Java, Python, JavaScript, C, R  
+- **AI / ML:** GenAI, RAG, LLM evaluation & observability, Prompt Engineering  
+- **RAG Tooling:** FAISS, Phoenix, RAGAS, DeepEval, Neo4j (GraphRAG)  
+- **Data Engineering:** dbt, Snowflake, SQL, ELT pipelines, Data Modeling  
 - **Frontend:** HTML, CSS, JavaScript, React, Angular, Bootstrap  
-- **Backend:** Spring Boot, Servlets, JSP, Hibernate, Express.js, Node.js, REST APIs, Microservices  
-- **Databases:** MySQL, MongoDB, PostgreSQL  
-- **Cloud:** AWS, Azure  
-- **Tools:** Git, GitHub, Eclipse, VS Code, Postman, Jira, Trello  
-- **Courses:** DSA, Software Engineering, AI, Database Systems, Predictive Modeling
+- **Backend:** Spring Boot, Spring Security, JWT, Node.js, Express, REST APIs, Microservices  
+- **Databases:** MySQL, PostgreSQL, MongoDB, H2  
+- **Cloud & DevOps:** Azure, AWS, Docker, GitHub Actions, CI/CD  
+- **Tools:** Git, GitHub, VS Code, Eclipse, Postman, Jira, Trello
 
 ---
 
